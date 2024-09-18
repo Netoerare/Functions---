@@ -1,0 +1,14 @@
+C:\Users\joel\Desktop\Function e\Functions\ConsoleApp1-Herron\bin\Debug\net8.0\ConsoleApp1-Heron.exe
+C:\Users\joel\Desktop\Function e\Functions\ConsoleApp1-Herron\bin\Debug\net8.0\ConsoleApp1-Heron.deps.json
+C:\Users\joel\Desktop\Function e\Functions\ConsoleApp1-Herron\bin\Debug\net8.0\ConsoleApp1-Heron.runtimeconfig.json
+C:\Users\joel\Desktop\Function e\Functions\ConsoleApp1-Herron\bin\Debug\net8.0\ConsoleApp1-Heron.dll
+C:\Users\joel\Desktop\Function e\Functions\ConsoleApp1-Herron\bin\Debug\net8.0\ConsoleApp1-Heron.pdb
+C:\Users\joel\Desktop\Function e\Functions\ConsoleApp1-Herron\obj\Debug\net8.0\ConsoleApp1-Heron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joel\Desktop\Function e\Functions\ConsoleApp1-Herron\obj\Debug\net8.0\ConsoleApp1-Heron.AssemblyInfoInputs.cache
+C:\Users\joel\Desktop\Function e\Functions\ConsoleApp1-Herron\obj\Debug\net8.0\ConsoleApp1-Heron.AssemblyInfo.cs
+C:\Users\joel\Desktop\Function e\Functions\ConsoleApp1-Herron\obj\Debug\net8.0\ConsoleApp1-Heron.csproj.CoreCompileInputs.cache
+C:\Users\joel\Desktop\Function e\Functions\ConsoleApp1-Herron\obj\Debug\net8.0\ConsoleApp1-Heron.dll
+C:\Users\joel\Desktop\Function e\Functions\ConsoleApp1-Herron\obj\Debug\net8.0\refint\ConsoleApp1-Heron.dll
+C:\Users\joel\Desktop\Function e\Functions\ConsoleApp1-Herron\obj\Debug\net8.0\ConsoleApp1-Heron.pdb
+C:\Users\joel\Desktop\Function e\Functions\ConsoleApp1-Herron\obj\Debug\net8.0\ConsoleApp1-Heron.genruntimeconfig.cache
+C:\Users\joel\Desktop\Function e\Functions\ConsoleApp1-Herron\obj\Debug\net8.0\ref\ConsoleApp1-Heron.dll
